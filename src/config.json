@@ -1,5 +1,5 @@
 {
   "api": { 
-    "invokeUrl": ""
+    "invokeUrl": "https://g957l54gid.execute-api.us-east-1.amazonaws.com/use"
   } 
 }
